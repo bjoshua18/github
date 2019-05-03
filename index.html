@@ -18,10 +18,25 @@
 		img {
 			max-width: 100%;
 		}
+
+		img#responsive {
+			display: none;
+		}
+
+		@media screen and (max-width: 768px) {
+			img {
+				display: none;
+			}
+
+			img#responsive {
+				display: block;
+			}
+		}
 	</style>
 	<title>Invie</title>
 </head>
 <body>
+	<img src="invie-responsive.png" alt="responsive" id="responsive">
 	<img src="header.jpg" alt="header">
 	<img src="hero.jpg" alt="hero">
 	<img src="acustica.jpg" alt="acustica">
