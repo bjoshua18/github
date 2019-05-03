@@ -1,0 +1,29 @@
+commit c2d4c66a916c5b57d03451dd696b734cf94f5115
+Author: Byron Bustamante <byronbl.12@gmail.com>
+Date:   Sun Apr 28 12:16:19 2019 +0100
+
+    añadimos guitarra clasica
+
+commit 72914619f5ef4acca3fb04a0410669de626b465a
+Author: Byron Bustamante <byronbl.12@gmail.com>
+Date:   Sun Apr 28 12:13:47 2019 +0100
+
+    agregando guitarra acustica
+
+commit 44c01a5080b64af98d3a9f7e9fdfcd34adecf56b
+Author: Byron Bustamante <byronbl.12@gmail.com>
+Date:   Sun Apr 28 12:09:38 2019 +0100
+
+    añadiendo nuevo hero
+
+commit 7d5a73129314d57f02146b0b1cfe016a026bc181
+Author: Byron Bustamante <byronbl.12@gmail.com>
+Date:   Sat Apr 27 12:15:43 2019 +0100
+
+    agregando el header
+
+commit f76f9e11fbf3d00f9227a7015920790ad804b043
+Author: Byron Bustamante <byronbl.12@gmail.com>
+Date:   Sat Apr 27 11:59:37 2019 +0100
+
+    inicializar nuestro landing
